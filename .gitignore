@@ -2,3 +2,6 @@
 
 /Lyrical-GraphQL/node_modules
 /Lyrical-GraphQL/server/secret.json
+
+/auth-graphql-starter-master/node_modules
+/auth-graphql-starter-master/server/secret.json
